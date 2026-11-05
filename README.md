@@ -5,3 +5,6 @@ SOLUCIONE TODO
 G.Y.L
 
 byNach
+
+
+Cambios hechos en rama segundo
